@@ -1,0 +1,26 @@
+ header {
+    font-style: oblique;
+    font-size: 25;
+    text-align: center;
+    background-color: darkgray;
+ }
+
+ h1 {
+    text-align: center;
+ }
+ section {
+    text-size-adjust: 25px;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ main {
+background-color: darkgray;
+background-size: cover;
+text-align: center;
+ }
+
+ p {
+    text-wrap: pretty;
+    text-align: center;
+ }
